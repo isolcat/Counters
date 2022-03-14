@@ -1,4 +1,4 @@
-# tets2
+# 使用vue制作一个滚动计数器
 
 ## Project setup
 ```
